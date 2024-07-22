@@ -30,15 +30,5 @@ O Projeto Módulo 4 é uma aplicação para gerenciar hemocentros e doações de
 - Node.js
 - Express.js
 - JavaScript
-- HTML/CSS
-- Biblioteca `fs` para manipulação de arquivos
 - Ferramentas adicionais como `nodemon` para desenvolvimento
 
-## Instalação
-
-Para instalar e rodar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-
-```sh
-git clone https://github.com/sauloteles/projeto-modulo-4.git
